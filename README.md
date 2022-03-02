@@ -1,7 +1,7 @@
 # Python_Calculator
 
 ## Description
-Creating a calculator with python. While the project is certainly not groundbreaking it was a good test to some fundamental coding skills. I used replit to write and execute the code.
+Creating a calculator with python. While the project is certainly not groundbreaking it was a good test to some fundamental coding skills. I used replit to write and execute the code. Try it with the link at the bottom.
 
 ## Basic Skills used in project
 Functions\
